@@ -1,2 +1,3 @@
 # Financial-Statement-OCR-Automation-
 Python automation tool that extracts financial statement data and converts it into structured Excel reports, reducing manual data entry.
+Financial Statement OCR Automation is a Python-based automation solution developed to eliminate manual financial statement data entry. The application extracts financial data from PDF statements using OCR, processes and structures the information, and exports it into Excel for faster financial analysis and reporting. The project was designed as part of a startup initiative to improve operational efficiency and reduce manual effort.
